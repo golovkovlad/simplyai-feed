@@ -20,6 +20,53 @@
     <itunes:image href="https://golovkovlad.github.io/simplyai-feed/show_cover.jpg"/>
     <image><url>https://golovkovlad.github.io/simplyai-feed/show_cover.jpg</url><title>Просто Штучний Інтелект</title><link>https://golovkovlad.github.io/simplyai-feed</link></image>
     <item>
+      <title>#11# Вчені на автопілоті: як ШІ-агенти самостійно роблять відкриття</title>
+      <description>Штучний інтелект у науці здійснює революцію завдяки автономним мультиагентним лабораторіям та архітектурі Eureka, яка організує макроагентів через динамічні графи зобов&#x27;язань для самостійного планування експериментів. Слухачі дізнаються, як інтеграція моделей ChatGPT 5 Thinking та Gemini 3 Raisonnement дозволяє ШІ прогнозувати властивості нових матеріалів, здійснювати геномний майнінг грибів для створення ліків та проводити складний скелетний монтаж піролів з ізоксазолів, описаний у Nature 2026. Випуск розкриває перехід від комп&#x27;ютерних моделей до повністю автономного наукового пошуку.
+
+🔗 Джерела епізоду:
+• Laboratoires autonomes multi-agents (OpenAlex: ШІ в науці)
+  https://doi.org/10.5281/zenodo.21995988
+• Eureka: Task-Conditioned Meta-Agent Orchestration for Scientific Discovery (arXiv AI)
+  https://arxiv.org/pdf/2608.19047v1
+• Synthesis of pyrroles from isoxazoles by an O-to-C skeletal edit (Nature (AI-фільтр))
+  https://www.nature.com/articles/s41586-026-10933-6
+• Data‐Driven Materials Science for Energy‐Sustainable Applications (OpenAlex: ШІ в науці)
+  https://doi.org/10.1002/adma.74491
+• Artificial Intelligence‐Driven Natural Product Drug Discovery: From Computational Genome Mining to Clinical Tr (OpenAlex (дозбір))
+  https://doi.org/10.1002/med.70098
+• My journey with fungi: the beauty and complexity of fungal natural products (OpenAlex (дозбір))
+  https://doi.org/10.1093/genetics/iyag146
+
+#ШтучнийІнтелект #Наука #ШІАгенти #Eureka #АвтономніЛабораторії
+
+Голоси ведучих синтезовані: власний клонований голос автора та ліцензована модель голосу. Сценарій створено за допомогою ШІ на основі джерел, перелічених нижче, під редакційним контролем автора.</description>
+      <itunes:summary>Штучний інтелект у науці здійснює революцію завдяки автономним мультиагентним лабораторіям та архітектурі Eureka, яка організує макроагентів через динамічні графи зобов&#x27;язань для самостійного планування експериментів. Слухачі дізнаються, як інтеграція моделей ChatGPT 5 Thinking та Gemini 3 Raisonnement дозволяє ШІ прогнозувати властивості нових матеріалів, здійснювати геномний майнінг грибів для створення ліків та проводити складний скелетний монтаж піролів з ізоксазолів, описаний у Nature 2026. Випуск розкриває перехід від комп&#x27;ютерних моделей до повністю автономного наукового пошуку.
+
+🔗 Джерела епізоду:
+• Laboratoires autonomes multi-agents (OpenAlex: ШІ в науці)
+  https://doi.org/10.5281/zenodo.21995988
+• Eureka: Task-Conditioned Meta-Agent Orchestration for Scientific Discovery (arXiv AI)
+  https://arxiv.org/pdf/2608.19047v1
+• Synthesis of pyrroles from isoxazoles by an O-to-C skeletal edit (Nature (AI-фільтр))
+  https://www.nature.com/articles/s41586-026-10933-6
+• Data‐Driven Materials Science for Energy‐Sustainable Applications (OpenAlex: ШІ в науці)
+  https://doi.org/10.1002/adma.74491
+• Artificial Intelligence‐Driven Natural Product Drug Discovery: From Computational Genome Mining to Clinical Tr (OpenAlex (дозбір))
+  https://doi.org/10.1002/med.70098
+• My journey with fungi: the beauty and complexity of fungal natural products (OpenAlex (дозбір))
+  https://doi.org/10.1093/genetics/iyag146
+
+#ШтучнийІнтелект #Наука #ШІАгенти #Eureka #АвтономніЛабораторії
+
+Голоси ведучих синтезовані: власний клонований голос автора та ліцензована модель голосу. Сценарій створено за допомогою ШІ на основі джерел, перелічених нижче, під редакційним контролем автора.</itunes:summary>
+      <enclosure url="https://github.com/golovkovlad/simplyai-feed/releases/download/media/011.mp3" length="31359212" type="audio/mpeg"/>
+      <guid isPermaLink="false">011</guid>
+      <pubDate>Fri, 21 Aug 2026 11:37:39 GMT</pubDate>
+      <itunes:duration>00:21:46</itunes:duration>
+      <itunes:image href="https://github.com/golovkovlad/simplyai-feed/releases/download/media/011_cover.png"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>#10# Мультиагентні ШІ-системи в медицині та охороні здоров&#x27;я</title>
       <description>Мультиагентні системи штучного інтелекту в медицині та охороні здоров&#x27;я відкривають нові можливості для автоматизації клінічних рішень, проте стикаються з викликами безпеки та точності. Слухачі дізнаються, як система DentAgent об&#x27;єднує 3D-дані та рентгенограми для стоматологічної діагностики, а локальне ШІ-рішення структурує 638 звітів комп&#x27;ютерної томографії грудної клітки та тазу. Також аналізуємо вразливість консиліумів мовних моделей до обходу тестів на датасетах на кшталт MedQA-USMLE та впровадження адаптивної пам&#x27;яті для точних медичних відповідей.
 
