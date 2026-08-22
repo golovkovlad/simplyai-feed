@@ -20,6 +20,53 @@
     <itunes:image href="https://golovkovlad.github.io/simplyai-feed/show_cover.jpg"/>
     <image><url>https://golovkovlad.github.io/simplyai-feed/show_cover.jpg</url><title>Просто Штучний Інтелект</title><link>https://golovkovlad.github.io/simplyai-feed</link></image>
     <item>
+      <title>#12# Впровадження Gemini в освіту та зміна підходів до навчання школярів</title>
+      <description>Впровадження штучного інтелекту в освіту та інтеграція Gemini змінюють підходи до навчання школярів. Епізод аналізує нові інструменти Google для створення карток, тестів та навчальних записників, а також розглядає досвід Ісландії у впровадженні національних AI-пілотів. Слухачі дізнаються про виклики впровадження генеративних моделей у школах, зокрема про обмеження для вчителів у країнах з різним рівнем економічного розвитку та важливість етичного використання технологій у навчальному процесі.
+
+🔗 Джерела епізоду:
+• How Icelanders are thinking about AI (YT: Anthropic)
+  https://www.youtube.com/watch?v=iF5IWjOWcA4
+• Don&#x27;t Paste the AI, please (Hacker News)
+  https://dontpastetheai.com/
+• Google packs Search and Gemini with new AI study tools (TechCrunch AI)
+  https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/
+• Google Gemini is getting a dedicated student hub (The Verge AI)
+  https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub
+• Artificial intelligence in education: applications and limitations for teachers in low- and middle-income coun (OpenAlex (дозбір))
+  https://public-pages-files-2025.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1681836/pdf
+• Thematic insights into the impact of large language models on K-12 education in rural India from student volun (OpenAlex (дозбір))
+  https://doi.org/10.1038/s41598-025-18047-1
+
+#ПростоШтучнийІнтелект #ШІ #GeminiВНавчанні #ЦифроваОсвіта #ШкільнийEdTech
+
+Голоси ведучих синтезовані: власний клонований голос автора та ліцензована модель голосу. Сценарій створено за допомогою ШІ на основі джерел, перелічених нижче, під редакційним контролем автора.</description>
+      <itunes:summary>Впровадження штучного інтелекту в освіту та інтеграція Gemini змінюють підходи до навчання школярів. Епізод аналізує нові інструменти Google для створення карток, тестів та навчальних записників, а також розглядає досвід Ісландії у впровадженні національних AI-пілотів. Слухачі дізнаються про виклики впровадження генеративних моделей у школах, зокрема про обмеження для вчителів у країнах з різним рівнем економічного розвитку та важливість етичного використання технологій у навчальному процесі.
+
+🔗 Джерела епізоду:
+• How Icelanders are thinking about AI (YT: Anthropic)
+  https://www.youtube.com/watch?v=iF5IWjOWcA4
+• Don&#x27;t Paste the AI, please (Hacker News)
+  https://dontpastetheai.com/
+• Google packs Search and Gemini with new AI study tools (TechCrunch AI)
+  https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/
+• Google Gemini is getting a dedicated student hub (The Verge AI)
+  https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub
+• Artificial intelligence in education: applications and limitations for teachers in low- and middle-income coun (OpenAlex (дозбір))
+  https://public-pages-files-2025.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1681836/pdf
+• Thematic insights into the impact of large language models on K-12 education in rural India from student volun (OpenAlex (дозбір))
+  https://doi.org/10.1038/s41598-025-18047-1
+
+#ПростоШтучнийІнтелект #ШІ #GeminiВНавчанні #ЦифроваОсвіта #ШкільнийEdTech
+
+Голоси ведучих синтезовані: власний клонований голос автора та ліцензована модель голосу. Сценарій створено за допомогою ШІ на основі джерел, перелічених нижче, під редакційним контролем автора.</itunes:summary>
+      <enclosure url="https://github.com/golovkovlad/simplyai-feed/releases/download/media/012.mp3" length="12682412" type="audio/mpeg"/>
+      <guid isPermaLink="false">012</guid>
+      <pubDate>Sat, 22 Aug 2026 05:58:26 GMT</pubDate>
+      <itunes:duration>00:08:48</itunes:duration>
+      <itunes:image href="https://github.com/golovkovlad/simplyai-feed/releases/download/media/012_cover.png"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>#11# Вчені на автопілоті: як ШІ-агенти самостійно роблять відкриття</title>
       <description>Штучний інтелект у науці здійснює революцію завдяки автономним мультиагентним лабораторіям та архітектурі Eureka, яка організує макроагентів через динамічні графи зобов&#x27;язань для самостійного планування експериментів. Слухачі дізнаються, як інтеграція моделей ChatGPT 5 Thinking та Gemini 3 Raisonnement дозволяє ШІ прогнозувати властивості нових матеріалів, здійснювати геномний майнінг грибів для створення ліків та проводити складний скелетний монтаж піролів з ізоксазолів, описаний у Nature 2026. Випуск розкриває перехід від комп&#x27;ютерних моделей до повністю автономного наукового пошуку.
 
