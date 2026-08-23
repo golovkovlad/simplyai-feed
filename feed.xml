@@ -20,6 +20,65 @@
     <itunes:image href="https://golovkovlad.github.io/simplyai-feed/show_cover.jpg"/>
     <image><url>https://golovkovlad.github.io/simplyai-feed/show_cover.jpg</url><title>Просто Штучний Інтелект</title><link>https://golovkovlad.github.io/simplyai-feed</link></image>
     <item>
+      <title>#13# Соціально-економічні та правові виклики епохи масового впровадження ШІ</title>
+      <description>Масове впровадження штучного інтелекту створює фундаментальні соціально-економічні та правові виклики, від відсутності незалежних даних про реальне використання моделей на кшталт ChatGPT до формування пост-AGI економіки, де ШІ-агенти стають одночасно виробниками та споживачами. Слухачі дізнаються про парадокс делегування рішень при покупках, юридичну незахищеність ШІ-контенту в ЄС та критичний аналіз техно-оптимістичних міфів Кремнієвої долини про неминучу сингулярність.
+
+⏱ Розділи:
+0:00 Авторське право на AI-генерації
+2:23 Довіра споживачів до рішень AI
+4:35 Економіка AGI та замкнений цикл
+8:56 Фізичні обмеження масштабування AI
+13:32 Розподіл капіталу в епоху AI
+16:03 Регулювання та майбутнє бізнесу AI
+
+🔗 Джерела епізоду:
+• We still don’t know how people are really using AI (MIT Tech Review AI)
+  https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/
+• Growth Without Us: Machine Consumers, Corporate Circularity, and the Decoupling of GDP from Humanity after AGI (arXiv AI)
+  https://arxiv.org/pdf/2608.20231v1
+• Copyright does not protect AI-generated content in EU (Hacker News)
+  https://mathstodon.xyz/@maxpool/117128107757895678
+• Every Exponential Ends — Silicon Valley Forgot — Adam Becker (YT: ML Street Talk)
+  https://www.youtube.com/watch?v=fgsmq8f3sWQ
+• When AI Decides with Me: The Delegation-Overreach Paradox in AI-Mediated Smartphone Purchases (OpenAlex: ШІ і психіка людини)
+  https://doi.org/10.63544/jbii.v5i8.159
+
+#ПростоШтучнийІнтелект #ШІ #ЦифроваЕкономіка #АвторськеПраво #МультиагентніСистеми
+
+Голоси ведучих синтезовані: власний клонований голос автора та ліцензована модель голосу. Сценарій створено за допомогою ШІ на основі джерел, перелічених нижче, під редакційним контролем автора.</description>
+      <itunes:summary>Масове впровадження штучного інтелекту створює фундаментальні соціально-економічні та правові виклики, від відсутності незалежних даних про реальне використання моделей на кшталт ChatGPT до формування пост-AGI економіки, де ШІ-агенти стають одночасно виробниками та споживачами. Слухачі дізнаються про парадокс делегування рішень при покупках, юридичну незахищеність ШІ-контенту в ЄС та критичний аналіз техно-оптимістичних міфів Кремнієвої долини про неминучу сингулярність.
+
+⏱ Розділи:
+0:00 Авторське право на AI-генерації
+2:23 Довіра споживачів до рішень AI
+4:35 Економіка AGI та замкнений цикл
+8:56 Фізичні обмеження масштабування AI
+13:32 Розподіл капіталу в епоху AI
+16:03 Регулювання та майбутнє бізнесу AI
+
+🔗 Джерела епізоду:
+• We still don’t know how people are really using AI (MIT Tech Review AI)
+  https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/
+• Growth Without Us: Machine Consumers, Corporate Circularity, and the Decoupling of GDP from Humanity after AGI (arXiv AI)
+  https://arxiv.org/pdf/2608.20231v1
+• Copyright does not protect AI-generated content in EU (Hacker News)
+  https://mathstodon.xyz/@maxpool/117128107757895678
+• Every Exponential Ends — Silicon Valley Forgot — Adam Becker (YT: ML Street Talk)
+  https://www.youtube.com/watch?v=fgsmq8f3sWQ
+• When AI Decides with Me: The Delegation-Overreach Paradox in AI-Mediated Smartphone Purchases (OpenAlex: ШІ і психіка людини)
+  https://doi.org/10.63544/jbii.v5i8.159
+
+#ПростоШтучнийІнтелект #ШІ #ЦифроваЕкономіка #АвторськеПраво #МультиагентніСистеми
+
+Голоси ведучих синтезовані: власний клонований голос автора та ліцензована модель голосу. Сценарій створено за допомогою ШІ на основі джерел, перелічених нижче, під редакційним контролем автора.</itunes:summary>
+      <enclosure url="https://github.com/golovkovlad/simplyai-feed/releases/download/media/013.mp3" length="27309932" type="audio/mpeg"/>
+      <guid isPermaLink="false">013</guid>
+      <pubDate>Sun, 23 Aug 2026 07:41:12 GMT</pubDate>
+      <itunes:duration>00:18:57</itunes:duration>
+      <itunes:image href="https://github.com/golovkovlad/simplyai-feed/releases/download/media/013_cover.png"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>#12# Впровадження Gemini в освіту та зміна підходів до навчання школярів</title>
       <description>Впровадження штучного інтелекту в освіту та інтеграція Gemini змінюють підходи до навчання школярів. Епізод аналізує нові інструменти Google для створення карток, тестів та навчальних записників, а також розглядає досвід Ісландії у впровадженні національних AI-пілотів. Слухачі дізнаються про виклики впровадження генеративних моделей у школах, зокрема про обмеження для вчителів у країнах з різним рівнем економічного розвитку та важливість етичного використання технологій у навчальному процесі.
 
