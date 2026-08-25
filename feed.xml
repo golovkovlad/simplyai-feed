@@ -20,6 +20,65 @@
     <itunes:image href="https://golovkovlad.github.io/simplyai-feed/show_cover.jpg"/>
     <image><url>https://golovkovlad.github.io/simplyai-feed/show_cover.jpg</url><title>Просто Штучний Інтелект</title><link>https://golovkovlad.github.io/simplyai-feed</link></image>
     <item>
+      <title>#14# Робототехніка та фізичне втілення ШІ від Google та Meta</title>
+      <description>Робототехніка та фізичне втілення ШІ стають реальністю завдяки новим розробкам Google Gemini Robotics 2 та моделі Meta Muse Spark 1.2. Ви дізнаєтеся про перехід від обмежених алгоритмів до цілісного управління тілом робота, що дозволяє виконувати складні маніпуляції та орієнтуватися у просторі. Також розглянемо стрибок продуктивності Muse Spark 1.2 з 59.8 до 72.0 балів у тестах та впровадження нових методів фізичної спритності, які наближають роботів до виконання реальних завдань у побуті та на виробництві.
+
+⏱ Розділи:
+0:00 MuseSpark 1.2 та нові ШІ-бенчмарки
+2:07 Gemini Robotics 2 у фізичному світі
+3:27 Дворівнева архітектура планування та VLA
+5:55 Проблеми балансу та стрес-тести роботів
+7:52 Wild Artifact Bench та автономні агенти
+9:44 Реліз MuseSpark 1.2 та майбутнє заліза
+
+🔗 Джерела епізоду:
+• Gemini Robotics 2 brings whole body intelligence to robots (YT: Google DeepMind)
+  https://www.youtube.com/watch?v=4lSQnrMC6nY
+• Intelligent whole-body control with Gemini Robotics 2 (YT: Google DeepMind)
+  https://www.youtube.com/watch?v=9MNLEAzA59o
+• Meta Reveals Muse Spark 1.2&#x27;s Multimodal Jump From 59.8 to 72.0 With Tools (AlphaSignal)
+  https://alphasignal.ai/news/meta-reveals-muse-spark-1-2-s-multimodal-jump-from-59-8-to-72-0-with-tools
+• Talking to Apollo about Gemini Robotics 2 🤖 (YT: Google DeepMind)
+  https://www.youtube.com/watch?v=zlveLhFb64M
+• Advanced dexterity with Gemini Robotics 2 (YT: Google DeepMind)
+  https://www.youtube.com/watch?v=O9-650iHAls
+
+#ПростоШтучнийІнтелект #ШІ #Робототехніка #GeminiRobotics #ФізичнийШІ
+
+Голоси ведучих синтезовані: власний клонований голос автора та ліцензована модель голосу. Сценарій створено за допомогою ШІ на основі джерел, перелічених нижче, під редакційним контролем автора.</description>
+      <itunes:summary>Робототехніка та фізичне втілення ШІ стають реальністю завдяки новим розробкам Google Gemini Robotics 2 та моделі Meta Muse Spark 1.2. Ви дізнаєтеся про перехід від обмежених алгоритмів до цілісного управління тілом робота, що дозволяє виконувати складні маніпуляції та орієнтуватися у просторі. Також розглянемо стрибок продуктивності Muse Spark 1.2 з 59.8 до 72.0 балів у тестах та впровадження нових методів фізичної спритності, які наближають роботів до виконання реальних завдань у побуті та на виробництві.
+
+⏱ Розділи:
+0:00 MuseSpark 1.2 та нові ШІ-бенчмарки
+2:07 Gemini Robotics 2 у фізичному світі
+3:27 Дворівнева архітектура планування та VLA
+5:55 Проблеми балансу та стрес-тести роботів
+7:52 Wild Artifact Bench та автономні агенти
+9:44 Реліз MuseSpark 1.2 та майбутнє заліза
+
+🔗 Джерела епізоду:
+• Gemini Robotics 2 brings whole body intelligence to robots (YT: Google DeepMind)
+  https://www.youtube.com/watch?v=4lSQnrMC6nY
+• Intelligent whole-body control with Gemini Robotics 2 (YT: Google DeepMind)
+  https://www.youtube.com/watch?v=9MNLEAzA59o
+• Meta Reveals Muse Spark 1.2&#x27;s Multimodal Jump From 59.8 to 72.0 With Tools (AlphaSignal)
+  https://alphasignal.ai/news/meta-reveals-muse-spark-1-2-s-multimodal-jump-from-59-8-to-72-0-with-tools
+• Talking to Apollo about Gemini Robotics 2 🤖 (YT: Google DeepMind)
+  https://www.youtube.com/watch?v=zlveLhFb64M
+• Advanced dexterity with Gemini Robotics 2 (YT: Google DeepMind)
+  https://www.youtube.com/watch?v=O9-650iHAls
+
+#ПростоШтучнийІнтелект #ШІ #Робототехніка #GeminiRobotics #ФізичнийШІ
+
+Голоси ведучих синтезовані: власний клонований голос автора та ліцензована модель голосу. Сценарій створено за допомогою ШІ на основі джерел, перелічених нижче, під редакційним контролем автора.</itunes:summary>
+      <enclosure url="https://github.com/golovkovlad/simplyai-feed/releases/download/media/014.mp3" length="16227692" type="audio/mpeg"/>
+      <guid isPermaLink="false">014</guid>
+      <pubDate>Tue, 25 Aug 2026 06:27:37 GMT</pubDate>
+      <itunes:duration>00:11:16</itunes:duration>
+      <itunes:image href="https://github.com/golovkovlad/simplyai-feed/releases/download/media/014_cover.png"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>#13# Соціально-економічні та правові виклики епохи масового впровадження ШІ</title>
       <description>Масове впровадження штучного інтелекту створює фундаментальні соціально-економічні та правові виклики, від відсутності незалежних даних про реальне використання моделей на кшталт ChatGPT до формування пост-AGI економіки, де ШІ-агенти стають одночасно виробниками та споживачами. Слухачі дізнаються про парадокс делегування рішень при покупках, юридичну незахищеність ШІ-контенту в ЄС та критичний аналіз техно-оптимістичних міфів Кремнієвої долини про неминучу сингулярність.
 
