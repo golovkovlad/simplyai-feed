@@ -20,6 +20,77 @@
     <itunes:image href="https://golovkovlad.github.io/simplyai-feed/show_cover.jpg"/>
     <image><url>https://golovkovlad.github.io/simplyai-feed/show_cover.jpg</url><title>Просто Штучний Інтелект</title><link>https://golovkovlad.github.io/simplyai-feed</link></image>
     <item>
+      <title>#15# Не модель, а Harness: як обгортка робить ШІ-програмістів розумнішими</title>
+      <description>Розробка програмного забезпечення за допомогою штучного інтелекту залежить не лише від мовної моделі, а й від ефективності обгортки — так званого harness. У випуску аналізуємо, як інструменти на кшталт SWE-agent та підходи до масштабування середовищ дозволяють досягати результатів у 96% на бенчмарках типу SWE-bench Verified Mini. Слухачі дізнаються, чому автономні агенти втрачають контекст і як правильна архітектура взаємодії з терміналом перетворює базові LLM на потужних інженерів, здатних вирішувати складні завдання без передчасних помилок.
+
+⏱ Розділи:
+0:00 Вплив оточення на GPT-5.6
+3:01 Архітектура ACI та механізми StateCM
+6:08 Баги ACI у Anthropic Cloud Code
+8:49 Практичні поради та майбутнє розробки
+
+🔗 Джерела епізоду:
+• StateM: Reaching 95.3% Raw Accuracy, or a \$15 Frontier Run, on Terminal-Bench 2.1 via Harness Scaling (HF Daily Papers)
+  https://arxiv.org/pdf/2608.15089
+• EnvHarness: Awakening Static Worlds for Agent Learning (HF Daily Papers)
+  https://arxiv.org/pdf/2608.19880
+• SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering (NeurIPS 2024) (Своє джерело)
+  https://arxiv.org/pdf/2405.15793
+• Conceptual integrity and counting lines of code (Simon Willison)
+  https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/
+• I benchmarked Ox Alpha on SWE-bench Verified Mini (50 tasks): 96% resolved. Now I’m skeptical of myself. (r/LocalLLaMA)
+  https://www.reddit.com/r/LocalLLaMA/comments/1vuke8o/i_benchmarked_ox_alpha_on_swebench_verified_mini/
+• An update on recent Claude Code quality reports — постмортем Anthropic (23.04.2026) (Своє джерело)
+  https://www.anthropic.com/engineering/april-23-postmortem
+• github.com/SWE-agent/SWE-agent/blob/main/docs/background/aci.md (Своє джерело)
+  https://github.com/SWE-agent/SWE-agent/blob/main/docs/background/aci.md
+• github.com/laude-institute/terminal-bench (Своє джерело)
+  https://github.com/laude-institute/terminal-bench
+• anthropic.com/engineering/building-effective-agents (Своє джерело)
+  https://www.anthropic.com/engineering/building-effective-agents
+
+#ПростоШтучнийІнтелект #ШІ #SWEAgent #HarnessScaling #АвтономніАгенти
+
+Голоси ведучих синтезовані: власний клонований голос автора та ліцензована модель голосу. Сценарій створено за допомогою ШІ на основі джерел, перелічених нижче, під редакційним контролем автора.</description>
+      <itunes:summary>Розробка програмного забезпечення за допомогою штучного інтелекту залежить не лише від мовної моделі, а й від ефективності обгортки — так званого harness. У випуску аналізуємо, як інструменти на кшталт SWE-agent та підходи до масштабування середовищ дозволяють досягати результатів у 96% на бенчмарках типу SWE-bench Verified Mini. Слухачі дізнаються, чому автономні агенти втрачають контекст і як правильна архітектура взаємодії з терміналом перетворює базові LLM на потужних інженерів, здатних вирішувати складні завдання без передчасних помилок.
+
+⏱ Розділи:
+0:00 Вплив оточення на GPT-5.6
+3:01 Архітектура ACI та механізми StateCM
+6:08 Баги ACI у Anthropic Cloud Code
+8:49 Практичні поради та майбутнє розробки
+
+🔗 Джерела епізоду:
+• StateM: Reaching 95.3% Raw Accuracy, or a \$15 Frontier Run, on Terminal-Bench 2.1 via Harness Scaling (HF Daily Papers)
+  https://arxiv.org/pdf/2608.15089
+• EnvHarness: Awakening Static Worlds for Agent Learning (HF Daily Papers)
+  https://arxiv.org/pdf/2608.19880
+• SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering (NeurIPS 2024) (Своє джерело)
+  https://arxiv.org/pdf/2405.15793
+• Conceptual integrity and counting lines of code (Simon Willison)
+  https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/
+• I benchmarked Ox Alpha on SWE-bench Verified Mini (50 tasks): 96% resolved. Now I’m skeptical of myself. (r/LocalLLaMA)
+  https://www.reddit.com/r/LocalLLaMA/comments/1vuke8o/i_benchmarked_ox_alpha_on_swebench_verified_mini/
+• An update on recent Claude Code quality reports — постмортем Anthropic (23.04.2026) (Своє джерело)
+  https://www.anthropic.com/engineering/april-23-postmortem
+• github.com/SWE-agent/SWE-agent/blob/main/docs/background/aci.md (Своє джерело)
+  https://github.com/SWE-agent/SWE-agent/blob/main/docs/background/aci.md
+• github.com/laude-institute/terminal-bench (Своє джерело)
+  https://github.com/laude-institute/terminal-bench
+• anthropic.com/engineering/building-effective-agents (Своє джерело)
+  https://www.anthropic.com/engineering/building-effective-agents
+
+#ПростоШтучнийІнтелект #ШІ #SWEAgent #HarnessScaling #АвтономніАгенти
+
+Голоси ведучих синтезовані: власний клонований голос автора та ліцензована модель голосу. Сценарій створено за допомогою ШІ на основі джерел, перелічених нижче, під редакційним контролем автора.</itunes:summary>
+      <enclosure url="https://github.com/golovkovlad/simplyai-feed/releases/download/media/015.mp3" length="14910380" type="audio/mpeg"/>
+      <guid isPermaLink="false">015</guid>
+      <pubDate>Thu, 27 Aug 2026 10:43:54 GMT</pubDate>
+      <itunes:duration>00:10:21</itunes:duration>
+      <itunes:image href="https://github.com/golovkovlad/simplyai-feed/releases/download/media/015_cover.png"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>#14# Робототехніка та фізичне втілення ШІ від Google та Meta</title>
       <description>Робототехніка та фізичне втілення ШІ стають реальністю завдяки новим розробкам Google Gemini Robotics 2 та моделі Meta Muse Spark 1.2. Ви дізнаєтеся про перехід від обмежених алгоритмів до цілісного управління тілом робота, що дозволяє виконувати складні маніпуляції та орієнтуватися у просторі. Також розглянемо стрибок продуктивності Muse Spark 1.2 з 59.8 до 72.0 балів у тестах та впровадження нових методів фізичної спритності, які наближають роботів до виконання реальних завдань у побуті та на виробництві.
 
