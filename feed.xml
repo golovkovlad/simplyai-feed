@@ -20,6 +20,63 @@
     <itunes:image href="https://golovkovlad.github.io/simplyai-feed/show_cover.jpg"/>
     <image><url>https://golovkovlad.github.io/simplyai-feed/show_cover.jpg</url><title>Просто Штучний Інтелект</title><link>https://golovkovlad.github.io/simplyai-feed</link></image>
     <item>
+      <title>#16# Прорив у швидкості та вартості генерації голосу й аудіомоделей</title>
+      <description>Технології генерації голосу та аудіомоделі штучного інтелекту досягли нового рівня доступності завдяки релізу Pika Speech, яка генерує хвилину аудіо якості 48 кГц за одну секунду всього за один цент, що в дев&#x27;ять разів дешевше за ElevenLabs. Аналіз платформи Speech Arena виявив парадокс вибору користувачів між приємністю звучання та точністю виконання завдань, тоді як нові моделі MeanVC2 та FireRedAudio пропонують крос-мовну зміну голосу на CPU та глибше розуміння мовлення через розділені представлення.
+
+⏱ Розділи:
+0:00 Gemini та Groq: парадокс голосових моделей
+4:04 Як ШІ обманює тести розпізнавання мовлення
+9:45 Pica: дешева та швидка генерація голосу
+12:48 FireRed: локальний ШІ та його обмеження
+15:35 Майбутнє голосового ШІ та нові тренди
+
+🔗 Джерела епізоду:
+• Artificial Analysis&#x27; Speech Arena Reveals Voice AI&#x27;s Uncomfortable Split Brain Problem (AlphaSignal)
+  https://alphasignal.ai/news/artificial-analysis-speech-arena-reveals-voice-ai-s-uncomfortable-split-brain
+• Make Jensen Huang Sound Like Anyone. New Streaming Voice Conversion Model MeanVC2 Released! (r/LocalLLaMA)
+  https://www.reddit.com/r/LocalLLaMA/comments/1vu34b1/make_jensen_huang_sound_like_anyone_new_streaming/
+• FireRedAudio &amp; FireRedTTS3 by FireRedTeam - Huggingface (r/LocalLLaMA)
+  https://www.reddit.com/r/LocalLLaMA/comments/1vukj3m/fireredaudio_fireredtts3_by_fireredteam/
+• Measuring benchmark optimization in speech recognition (HuggingFace Blog)
+  https://huggingface.co/blog/asr-benchmark-optimization
+• Pika Labs&#x27; Pika Speech Undercuts ElevenLabs by 9x With Studio-Quality Audio (AlphaSignal)
+  https://alphasignal.ai/news/pika-labs-pika-speech-undercuts-elevenlabs-by-9x-with-studio-quality-audio
+
+#ПростоШтучнийІнтелект #ШІ #ГенераціяГолосу #АудіоМоделі #СинтезМовлення
+
+Голоси ведучих синтезовані: власний клонований голос автора та ліцензована модель голосу. Сценарій створено за допомогою ШІ на основі джерел, перелічених нижче, під редакційним контролем автора.</description>
+      <itunes:summary>Технології генерації голосу та аудіомоделі штучного інтелекту досягли нового рівня доступності завдяки релізу Pika Speech, яка генерує хвилину аудіо якості 48 кГц за одну секунду всього за один цент, що в дев&#x27;ять разів дешевше за ElevenLabs. Аналіз платформи Speech Arena виявив парадокс вибору користувачів між приємністю звучання та точністю виконання завдань, тоді як нові моделі MeanVC2 та FireRedAudio пропонують крос-мовну зміну голосу на CPU та глибше розуміння мовлення через розділені представлення.
+
+⏱ Розділи:
+0:00 Gemini та Groq: парадокс голосових моделей
+4:04 Як ШІ обманює тести розпізнавання мовлення
+9:45 Pica: дешева та швидка генерація голосу
+12:48 FireRed: локальний ШІ та його обмеження
+15:35 Майбутнє голосового ШІ та нові тренди
+
+🔗 Джерела епізоду:
+• Artificial Analysis&#x27; Speech Arena Reveals Voice AI&#x27;s Uncomfortable Split Brain Problem (AlphaSignal)
+  https://alphasignal.ai/news/artificial-analysis-speech-arena-reveals-voice-ai-s-uncomfortable-split-brain
+• Make Jensen Huang Sound Like Anyone. New Streaming Voice Conversion Model MeanVC2 Released! (r/LocalLLaMA)
+  https://www.reddit.com/r/LocalLLaMA/comments/1vu34b1/make_jensen_huang_sound_like_anyone_new_streaming/
+• FireRedAudio &amp; FireRedTTS3 by FireRedTeam - Huggingface (r/LocalLLaMA)
+  https://www.reddit.com/r/LocalLLaMA/comments/1vukj3m/fireredaudio_fireredtts3_by_fireredteam/
+• Measuring benchmark optimization in speech recognition (HuggingFace Blog)
+  https://huggingface.co/blog/asr-benchmark-optimization
+• Pika Labs&#x27; Pika Speech Undercuts ElevenLabs by 9x With Studio-Quality Audio (AlphaSignal)
+  https://alphasignal.ai/news/pika-labs-pika-speech-undercuts-elevenlabs-by-9x-with-studio-quality-audio
+
+#ПростоШтучнийІнтелект #ШІ #ГенераціяГолосу #АудіоМоделі #СинтезМовлення
+
+Голоси ведучих синтезовані: власний клонований голос автора та ліцензована модель голосу. Сценарій створено за допомогою ШІ на основі джерел, перелічених нижче, під редакційним контролем автора.</itunes:summary>
+      <enclosure url="https://github.com/golovkovlad/simplyai-feed/releases/download/media/016.mp3" length="27038636" type="audio/mpeg"/>
+      <guid isPermaLink="false">016</guid>
+      <pubDate>Mon, 31 Aug 2026 15:43:45 GMT</pubDate>
+      <itunes:duration>00:18:46</itunes:duration>
+      <itunes:image href="https://github.com/golovkovlad/simplyai-feed/releases/download/media/016_cover.png"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>#15# Не модель, а Harness: як обгортка робить ШІ-програмістів розумнішими</title>
       <description>Розробка програмного забезпечення за допомогою штучного інтелекту залежить не лише від мовної моделі, а й від ефективності обгортки — так званого harness. У випуску аналізуємо, як інструменти на кшталт SWE-agent та підходи до масштабування середовищ дозволяють досягати результатів у 96% на бенчмарках типу SWE-bench Verified Mini. Слухачі дізнаються, чому автономні агенти втрачають контекст і як правильна архітектура взаємодії з терміналом перетворює базові LLM на потужних інженерів, здатних вирішувати складні завдання без передчасних помилок.
 
