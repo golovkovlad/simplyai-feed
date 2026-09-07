@@ -20,6 +20,71 @@
     <itunes:image href="https://golovkovlad.github.io/simplyai-feed/show_cover.jpg"/>
     <image><url>https://golovkovlad.github.io/simplyai-feed/show_cover.jpg</url><title>Просто Штучний Інтелект</title><link>https://golovkovlad.github.io/simplyai-feed</link></image>
     <item>
+      <title>#17# За крок до AGI? Розбираємо GPT-6 Astra від OpenAI без хайпу</title>
+      <description>Нова модель штучного інтелекту GPT-6 Astra від OpenAI демонструє проривні можливості, самостійно покращуючи додатки на 150 000 рядків коду та створюючи історичний 3D-простір Лондона. Слухачі дізнаються, як ця технологія вирішує раніше непідйомні головоломки DEF CON завдяки паралельним гілкам дослідження, керує роборуками та чому фахівці з безпеки б&#x27;ють на сполох через втрату контролю над моніторингом ланцюжків міркувань моделі.
+
+⏱ Розділи:
+0:00 GPT-6 Astra та обхід безпеки
+3:01 Автономність моделі та нові бенчмарки
+4:45 Ройова архітектура та субагенти Astra
+6:05 Обмеження оцінювання та динамічні тести
+9:13 Робототехніка та обмеження дрібної моторики
+11:10 Теорія POSEST-PQF та приховане мислення
+12:46 Кібербезпека та державне тестування OpenAI
+
+🔗 Джерела епізоду:
+• GPT 6 Astra, so good even OpenAI are worried (YT: AI Explained)
+  https://www.youtube.com/watch?v=Spuza-KwTJ4
+• GPT-6 Astra with Peter Gostev (YT: OpenAI)
+  https://www.youtube.com/watch?v=A4BUbpKdenc
+• GPT-6 Astra with Ben Davis (YT: OpenAI)
+  https://www.youtube.com/watch?v=B-jjnydci50
+• GPT-6 Astra on robot arms (Hacker News)
+  https://openai.robocurve.org/gpt-6-astra/
+• OpenAI begins rolling out GPT-6 Astra (Hacker News)
+  https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html
+• Activation Beyond the Activated Patryca and the Transformation of Operational Accessibility GPT-6 Astra as a p (OpenAlex (дозбір))
+  https://doi.org/10.5281/zenodo.22427968
+
+#ПростоШтучнийІнтелект #ШІ #Gpt6Astra #БезпекаШтучногоІнтелекту #ПаралельніМіркування
+
+Голоси ведучих синтезовані: власний клонований голос автора та ліцензована модель голосу. Сценарій створено за допомогою ШІ на основі джерел, перелічених нижче, під редакційним контролем автора.</description>
+      <itunes:summary>Нова модель штучного інтелекту GPT-6 Astra від OpenAI демонструє проривні можливості, самостійно покращуючи додатки на 150 000 рядків коду та створюючи історичний 3D-простір Лондона. Слухачі дізнаються, як ця технологія вирішує раніше непідйомні головоломки DEF CON завдяки паралельним гілкам дослідження, керує роборуками та чому фахівці з безпеки б&#x27;ють на сполох через втрату контролю над моніторингом ланцюжків міркувань моделі.
+
+⏱ Розділи:
+0:00 GPT-6 Astra та обхід безпеки
+3:01 Автономність моделі та нові бенчмарки
+4:45 Ройова архітектура та субагенти Astra
+6:05 Обмеження оцінювання та динамічні тести
+9:13 Робототехніка та обмеження дрібної моторики
+11:10 Теорія POSEST-PQF та приховане мислення
+12:46 Кібербезпека та державне тестування OpenAI
+
+🔗 Джерела епізоду:
+• GPT 6 Astra, so good even OpenAI are worried (YT: AI Explained)
+  https://www.youtube.com/watch?v=Spuza-KwTJ4
+• GPT-6 Astra with Peter Gostev (YT: OpenAI)
+  https://www.youtube.com/watch?v=A4BUbpKdenc
+• GPT-6 Astra with Ben Davis (YT: OpenAI)
+  https://www.youtube.com/watch?v=B-jjnydci50
+• GPT-6 Astra on robot arms (Hacker News)
+  https://openai.robocurve.org/gpt-6-astra/
+• OpenAI begins rolling out GPT-6 Astra (Hacker News)
+  https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html
+• Activation Beyond the Activated Patryca and the Transformation of Operational Accessibility GPT-6 Astra as a p (OpenAlex (дозбір))
+  https://doi.org/10.5281/zenodo.22427968
+
+#ПростоШтучнийІнтелект #ШІ #Gpt6Astra #БезпекаШтучногоІнтелекту #ПаралельніМіркування
+
+Голоси ведучих синтезовані: власний клонований голос автора та ліцензована модель голосу. Сценарій створено за допомогою ШІ на основі джерел, перелічених нижче, під редакційним контролем автора.</itunes:summary>
+      <enclosure url="https://github.com/golovkovlad/simplyai-feed/releases/download/media/017.mp3" length="22192172" type="audio/mpeg"/>
+      <guid isPermaLink="false">017</guid>
+      <pubDate>Mon, 07 Sep 2026 22:29:53 GMT</pubDate>
+      <itunes:duration>00:15:24</itunes:duration>
+      <itunes:image href="https://github.com/golovkovlad/simplyai-feed/releases/download/media/017_cover.png"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>#16# Прорив у швидкості та вартості генерації голосу й аудіомоделей</title>
       <description>Технології генерації голосу та аудіомоделі штучного інтелекту досягли нового рівня доступності завдяки релізу Pika Speech, яка генерує хвилину аудіо якості 48 кГц за одну секунду всього за один цент, що в дев&#x27;ять разів дешевше за ElevenLabs. Аналіз платформи Speech Arena виявив парадокс вибору користувачів між приємністю звучання та точністю виконання завдань, тоді як нові моделі MeanVC2 та FireRedAudio пропонують крос-мовну зміну голосу на CPU та глибше розуміння мовлення через розділені представлення.
 
