@@ -20,6 +20,55 @@
     <itunes:image href="https://golovkovlad.github.io/simplyai-feed/show_cover.jpg"/>
     <image><url>https://golovkovlad.github.io/simplyai-feed/show_cover.jpg</url><title>Просто Штучний Інтелект</title><link>https://golovkovlad.github.io/simplyai-feed</link></image>
     <item>
+      <title>#19# Більше не за сценарієм: роботи вчаться на льоту</title>
+      <description>Нова модель Gen-1.5 дозволяє роботам миттєво адаптуватися до складних завдань без жодного додаткового тренування. Технологія in-context learning, інтегрована мультимодальна модель Qwen-Drive-1.0 для автопілотів та дифузійне планування мультиагентних систем за логікою STL виводять автономність на новий рівень. Ви дізнаєтеся, як поєднання комп&#x27;ютерного зору, мовних моделей та дифузійних алгоритмів вирішує проблему колізій роїв дронів і робить транспорт адаптивним.
+
+⏱ Розділи:
+0:00 Адаптація роботів до втрати кінцівок
+2:14 Алгоритм RMA та сліпа локомоція
+4:01 Візуальна навігація та TT Parkour
+5:54 Вирішення градієнтного конфлікту через MoE
+7:29 Майбутнє адаптивних робототехнічних систем
+
+🔗 Джерела епізоду:
+• The Robotics Breakthrough Everyone Has Been Waiting For (YT: bycloud)
+  https://www.youtube.com/watch?v=cqwKceUSZ5Q
+• Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving (HF Daily Papers)
+  https://arxiv.org/pdf/2609.00111
+• Generalizable Multi-Agent Planning from Signal Temporal Logic Specifications via Diffusion (arXiv Multi-Agent (cs.MA))
+  https://arxiv.org/pdf/2608.29490v1
+
+#ПростоШтучнийІнтелект #ШІ #QwenDrive #Gen15 #SignalTemporalLogic #АвтономнеВодіння #МультиагентніСистеми
+
+Голоси ведучих синтезовані: власний клонований голос автора та ліцензована модель голосу. Сценарій створено за допомогою ШІ на основі джерел, перелічених нижче, під редакційним контролем автора.</description>
+      <itunes:summary>Нова модель Gen-1.5 дозволяє роботам миттєво адаптуватися до складних завдань без жодного додаткового тренування. Технологія in-context learning, інтегрована мультимодальна модель Qwen-Drive-1.0 для автопілотів та дифузійне планування мультиагентних систем за логікою STL виводять автономність на новий рівень. Ви дізнаєтеся, як поєднання комп&#x27;ютерного зору, мовних моделей та дифузійних алгоритмів вирішує проблему колізій роїв дронів і робить транспорт адаптивним.
+
+⏱ Розділи:
+0:00 Адаптація роботів до втрати кінцівок
+2:14 Алгоритм RMA та сліпа локомоція
+4:01 Візуальна навігація та TT Parkour
+5:54 Вирішення градієнтного конфлікту через MoE
+7:29 Майбутнє адаптивних робототехнічних систем
+
+🔗 Джерела епізоду:
+• The Robotics Breakthrough Everyone Has Been Waiting For (YT: bycloud)
+  https://www.youtube.com/watch?v=cqwKceUSZ5Q
+• Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving (HF Daily Papers)
+  https://arxiv.org/pdf/2609.00111
+• Generalizable Multi-Agent Planning from Signal Temporal Logic Specifications via Diffusion (arXiv Multi-Agent (cs.MA))
+  https://arxiv.org/pdf/2608.29490v1
+
+#ПростоШтучнийІнтелект #ШІ #QwenDrive #Gen15 #SignalTemporalLogic #АвтономнеВодіння #МультиагентніСистеми
+
+Голоси ведучих синтезовані: власний клонований голос автора та ліцензована модель голосу. Сценарій створено за допомогою ШІ на основі джерел, перелічених нижче, під редакційним контролем автора.</itunes:summary>
+      <enclosure url="https://github.com/golovkovlad/simplyai-feed/releases/download/media/019.mp3" length="13565996" type="audio/mpeg"/>
+      <guid isPermaLink="false">019</guid>
+      <pubDate>Fri, 11 Sep 2026 08:04:33 GMT</pubDate>
+      <itunes:duration>00:09:25</itunes:duration>
+      <itunes:image href="https://github.com/golovkovlad/simplyai-feed/releases/download/media/019_cover.png"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>#18# ШІ ламає освіту та загрожує зниженням зарплат до 2030 року</title>
       <description>Дані OECD свідчать про падіння успішності учнів через алгоритми, а аналітики очікують знецінення розумової праці. Економічна команда Anthropic розробила модель трьох сценаріїв розвитку ринку праці, а оновлений фреймворк Асемоглу та Рестрепо описує зону комплементарності людей і машин. Ви зрозумієте, чому критичне мислення в школах та адаптація до комплементарного використання технологій є ключем до збереження доходів.
 
