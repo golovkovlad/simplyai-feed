@@ -20,6 +20,69 @@
     <itunes:image href="https://golovkovlad.github.io/simplyai-feed/show_cover.jpg"/>
     <image><url>https://golovkovlad.github.io/simplyai-feed/show_cover.jpg</url><title>Просто Штучний Інтелект</title><link>https://golovkovlad.github.io/simplyai-feed</link></image>
     <item>
+      <title>#20# Чи дійсно муха грала в Doom та Minecraft? ШІ читає геноми. Біореволюція?</title>
+      <description>ШІ спрогнозував наслідки для всіх 9 мільярдів мутацій геному людини, створивши гігантську базу даних на петабайт. Розбираємо революційний атлас AlphaGenome від Google DeepMind, новий стандарт автоматизації лабораторій Anthropic MHS та реальні ліміти симуляції мозку мухи MaleCNS v1.0. Слухачі дізнаються, як мультимодальний фреймворк OmniMed-FL змінює клінічну діагностику без порушення приватності пацієнтів.
+
+⏱ Розділи:
+0:00 ШІ в науці: автоматизація досліджень
+1:39 Claude: керування лабораторним обладнанням
+3:27 AlphaGenome: аналіз некодуючої ДНК людини
+4:32 OmniMed FL: мультимодальна діагностика
+5:57 MHS: стандартизація команд для приладів
+9:07 MelCNS: провал віртуального мозку мухи
+11:19 Обмеження ШІ: помилки та безпека
+13:14 Майбутнє ШІ: прискорення наукових відкриттів
+
+🔗 Джерела епізоду:
+• AI models can now help run physical science experiments (YT: Anthropic)
+  https://www.youtube.com/watch?v=P1zBiAQU1IA
+• AlphaGenome Atlas: Understanding the human genome (YT: Google DeepMind)
+  https://www.youtube.com/watch?v=U0aToL5C-bQ
+• Google DeepMind Releases AlphaGenome Atlas (Hacker News)
+  https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/
+• I tried to make a real fly connectome learn to play Pong. It didn&#x27;t — and auditing why turned out to be way mo (r/MachineLearning)
+  https://www.reddit.com/r/MachineLearning/comments/1wc67ci/i_tried_to_make_a_real_fly_connectome_learn_to/
+• OmniMed-FL: A Robust Multimodal Federated Learning Framework for Clinical Diagnosis (arXiv AI)
+  https://arxiv.org/pdf/2609.10364v1
+
+#ПростоШтучнийІнтелект #ШІ #Google #DeepMind #AlphaGenome #Anthropic #OmniMed
+
+Голоси ведучих синтезовані: власний клонований голос автора та ліцензована модель голосу. Сценарій створено за допомогою ШІ на основі джерел, перелічених нижче, під редакційним контролем автора.</description>
+      <itunes:summary>ШІ спрогнозував наслідки для всіх 9 мільярдів мутацій геному людини, створивши гігантську базу даних на петабайт. Розбираємо революційний атлас AlphaGenome від Google DeepMind, новий стандарт автоматизації лабораторій Anthropic MHS та реальні ліміти симуляції мозку мухи MaleCNS v1.0. Слухачі дізнаються, як мультимодальний фреймворк OmniMed-FL змінює клінічну діагностику без порушення приватності пацієнтів.
+
+⏱ Розділи:
+0:00 ШІ в науці: автоматизація досліджень
+1:39 Claude: керування лабораторним обладнанням
+3:27 AlphaGenome: аналіз некодуючої ДНК людини
+4:32 OmniMed FL: мультимодальна діагностика
+5:57 MHS: стандартизація команд для приладів
+9:07 MelCNS: провал віртуального мозку мухи
+11:19 Обмеження ШІ: помилки та безпека
+13:14 Майбутнє ШІ: прискорення наукових відкриттів
+
+🔗 Джерела епізоду:
+• AI models can now help run physical science experiments (YT: Anthropic)
+  https://www.youtube.com/watch?v=P1zBiAQU1IA
+• AlphaGenome Atlas: Understanding the human genome (YT: Google DeepMind)
+  https://www.youtube.com/watch?v=U0aToL5C-bQ
+• Google DeepMind Releases AlphaGenome Atlas (Hacker News)
+  https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/
+• I tried to make a real fly connectome learn to play Pong. It didn&#x27;t — and auditing why turned out to be way mo (r/MachineLearning)
+  https://www.reddit.com/r/MachineLearning/comments/1wc67ci/i_tried_to_make_a_real_fly_connectome_learn_to/
+• OmniMed-FL: A Robust Multimodal Federated Learning Framework for Clinical Diagnosis (arXiv AI)
+  https://arxiv.org/pdf/2609.10364v1
+
+#ПростоШтучнийІнтелект #ШІ #Google #DeepMind #AlphaGenome #Anthropic #OmniMed
+
+Голоси ведучих синтезовані: власний клонований голос автора та ліцензована модель голосу. Сценарій створено за допомогою ШІ на основі джерел, перелічених нижче, під редакційним контролем автора.</itunes:summary>
+      <enclosure url="https://github.com/golovkovlad/simplyai-feed/releases/download/media/020.mp3" length="22485932" type="audio/mpeg"/>
+      <guid isPermaLink="false">020</guid>
+      <pubDate>Mon, 14 Sep 2026 07:14:59 GMT</pubDate>
+      <itunes:duration>00:15:36</itunes:duration>
+      <itunes:image href="https://github.com/golovkovlad/simplyai-feed/releases/download/media/020_cover.png"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>#19# Більше не за сценарієм: роботи вчаться на льоту</title>
       <description>Нова модель Gen-1.5 дозволяє роботам миттєво адаптуватися до складних завдань без жодного додаткового тренування. Технологія in-context learning, інтегрована мультимодальна модель Qwen-Drive-1.0 для автопілотів та дифузійне планування мультиагентних систем за логікою STL виводять автономність на новий рівень. Ви дізнаєтеся, як поєднання комп&#x27;ютерного зору, мовних моделей та дифузійних алгоритмів вирішує проблему колізій роїв дронів і робить транспорт адаптивним.
 
