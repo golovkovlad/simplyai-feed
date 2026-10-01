@@ -20,7 +20,7 @@
     <itunes:image href="https://golovkovlad.github.io/simplyai-feed/show_cover.jpg"/>
     <image><url>https://golovkovlad.github.io/simplyai-feed/show_cover.jpg</url><title>Просто Штучний Інтелект</title><link>https://golovkovlad.github.io/simplyai-feed</link></image>
     <item>
-      <title>#23# Чому людська мова — це замало? Таємниця «Neuralese»</title>
+      <title>#21# Чому людська мова — це замало? Таємниця «Neuralese»</title>
       <description>Коли агенти ШІ дізнаються про модельне походження своїх колег, їхня здатність до співпраці критично падає через упередженість. Ми розбираємо феномен Neuralese, де LLM починають формувати внутрішні мови для розв&#x27;язання задач, та технологію TabPFN, яка замінює тривале налаштування моделей одним проходом через синтетичні дані. Ви дізнаєтеся, як приховані механізми мислення нейромереж змінюють архітектуру майбутніх систем.
 
 ⏱ Розділи:
@@ -59,11 +59,11 @@
 #ПростоШтучнийІнтелект #ШІ #Neuralese #TabPFN #МультиагентніСистеми #МашиннеНавчання
 
 Голоси ведучих синтезовані: власний клонований голос автора та ліцензована модель голосу. Сценарій створено за допомогою ШІ на основі джерел, перелічених нижче, під редакційним контролем автора.</itunes:summary>
-      <enclosure url="https://github.com/golovkovlad/simplyai-feed/releases/download/media/023.mp3" length="17105516" type="audio/mpeg"/>
+      <enclosure url="https://github.com/golovkovlad/simplyai-feed/releases/download/media/021.mp3" length="17105516" type="audio/mpeg"/>
       <guid isPermaLink="false">023</guid>
       <pubDate>Thu, 01 Oct 2026 10:34:35 GMT</pubDate>
       <itunes:duration>00:11:52</itunes:duration>
-      <itunes:image href="https://github.com/golovkovlad/simplyai-feed/releases/download/media/023_cover.png"/>
+      <itunes:image href="https://github.com/golovkovlad/simplyai-feed/releases/download/media/021_cover.png"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
