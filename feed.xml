@@ -20,6 +20,53 @@
     <itunes:image href="https://golovkovlad.github.io/simplyai-feed/show_cover.jpg"/>
     <image><url>https://golovkovlad.github.io/simplyai-feed/show_cover.jpg</url><title>Просто Штучний Інтелект</title><link>https://golovkovlad.github.io/simplyai-feed</link></image>
     <item>
+      <title>#23# Чому людська мова — це замало? Таємниця «Neuralese»</title>
+      <description>Коли агенти ШІ дізнаються про модельне походження своїх колег, їхня здатність до співпраці критично падає через упередженість. Ми розбираємо феномен Neuralese, де LLM починають формувати внутрішні мови для розв&#x27;язання задач, та технологію TabPFN, яка замінює тривале налаштування моделей одним проходом через синтетичні дані. Ви дізнаєтеся, як приховані механізми мислення нейромереж змінюють архітектуру майбутніх систем.
+
+⏱ Розділи:
+0:00 Мова нейронів та приховані обчислення
+3:33 Фракціоналізм та упередженість мультиагентних систем
+5:23 Автоматизація аналізу даних через TAP-PFN
+7:14 Технічні обмеження та майбутнє ШІ
+
+🔗 Джерела епізоду:
+• The AI Language We Can&#x27;t Read: Neuralese ft. Rob Miles - Computerphile (YT: Computerphile)
+  https://www.youtube.com/watch?v=iuHddnIzKRA
+• Prompted Identity Degrades Cooperation in Multi-Agent LLM Systems (arXiv Multi-Agent (cs.MA))
+  https://arxiv.org/pdf/2609.35928v1
+• The AI That Replaces Hours of Model Tuning - Frank Hutter (YT: ML Street Talk)
+  https://www.youtube.com/watch?v=72Im-Mm5JKs
+
+#ПростоШтучнийІнтелект #ШІ #Neuralese #TabPFN #МультиагентніСистеми #МашиннеНавчання
+
+Голоси ведучих синтезовані: власний клонований голос автора та ліцензована модель голосу. Сценарій створено за допомогою ШІ на основі джерел, перелічених нижче, під редакційним контролем автора.</description>
+      <itunes:summary>Коли агенти ШІ дізнаються про модельне походження своїх колег, їхня здатність до співпраці критично падає через упередженість. Ми розбираємо феномен Neuralese, де LLM починають формувати внутрішні мови для розв&#x27;язання задач, та технологію TabPFN, яка замінює тривале налаштування моделей одним проходом через синтетичні дані. Ви дізнаєтеся, як приховані механізми мислення нейромереж змінюють архітектуру майбутніх систем.
+
+⏱ Розділи:
+0:00 Мова нейронів та приховані обчислення
+3:33 Фракціоналізм та упередженість мультиагентних систем
+5:23 Автоматизація аналізу даних через TAP-PFN
+7:14 Технічні обмеження та майбутнє ШІ
+
+🔗 Джерела епізоду:
+• The AI Language We Can&#x27;t Read: Neuralese ft. Rob Miles - Computerphile (YT: Computerphile)
+  https://www.youtube.com/watch?v=iuHddnIzKRA
+• Prompted Identity Degrades Cooperation in Multi-Agent LLM Systems (arXiv Multi-Agent (cs.MA))
+  https://arxiv.org/pdf/2609.35928v1
+• The AI That Replaces Hours of Model Tuning - Frank Hutter (YT: ML Street Talk)
+  https://www.youtube.com/watch?v=72Im-Mm5JKs
+
+#ПростоШтучнийІнтелект #ШІ #Neuralese #TabPFN #МультиагентніСистеми #МашиннеНавчання
+
+Голоси ведучих синтезовані: власний клонований голос автора та ліцензована модель голосу. Сценарій створено за допомогою ШІ на основі джерел, перелічених нижче, під редакційним контролем автора.</itunes:summary>
+      <enclosure url="https://github.com/golovkovlad/simplyai-feed/releases/download/media/023.mp3" length="17105516" type="audio/mpeg"/>
+      <guid isPermaLink="false">023</guid>
+      <pubDate>Thu, 01 Oct 2026 10:34:35 GMT</pubDate>
+      <itunes:duration>00:11:52</itunes:duration>
+      <itunes:image href="https://github.com/golovkovlad/simplyai-feed/releases/download/media/023_cover.png"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>#20# Чи дійсно муха грала в Doom та Minecraft? ШІ читає геноми. Біореволюція?</title>
       <description>ШІ спрогнозував наслідки для всіх 9 мільярдів мутацій геному людини, створивши гігантську базу даних на петабайт. Розбираємо революційний атлас AlphaGenome від Google DeepMind, новий стандарт автоматизації лабораторій Anthropic MHS та реальні ліміти симуляції мозку мухи MaleCNS v1.0. Слухачі дізнаються, як мультимодальний фреймворк OmniMed-FL змінює клінічну діагностику без порушення приватності пацієнтів.
 
