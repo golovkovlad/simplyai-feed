@@ -20,6 +20,69 @@
     <itunes:image href="https://golovkovlad.github.io/simplyai-feed/show_cover.jpg"/>
     <image><url>https://golovkovlad.github.io/simplyai-feed/show_cover.jpg</url><title>Просто Штучний Інтелект</title><link>https://golovkovlad.github.io/simplyai-feed</link></image>
     <item>
+      <title>#22# OpenAI Agents API знищує потребу в оркестрації для розробників</title>
+      <description>Нова модель GPT-Live-1 скорочує код голосових агентів на 80% при вартості всього 5 центів за хвилину роботи. Реліз OpenAI Agents API переносить хостинг інфраструктури Codex у хмару, дозволяючи створювати автономні системи для розслідування інцидентів через протокол MCP. Проте інтеграція таких рішень виявляє критичну проблему крос-субстратної авторизації, коли ідентичні файли вимагають протилежних безпекових дій через розрив між пам&#x27;яттю моделі та правами доступу.
+
+⏱ Розділи:
+0:00 WebArena та ефективність програмних оболонок
+2:05 GPT Live 1 та повнодуплексний голос
+4:23 Шаблон делегування та оптимізація коду
+6:09 Harness-інженерія та оцінка TerminalBench
+7:37 Шість компонентів ефективної оболонки ШІ
+10:40 Межі масштабування та проблеми планування
+12:41 Безпека ШІ та верифікація дій
+14:08 Agency API та багатоагентні системи
+
+🔗 Джерела епізоду:
+• From Question Answering to Task Completion: A Survey on Agent System and Harness Design (06.2026) (Своє джерело)
+  https://arxiv.org/pdf/2606.20683
+• Introducing the Agents API (YT: OpenAI)
+  https://www.youtube.com/watch?v=2YHa1vhnmK0
+• OpenAI Agents API (Hacker News)
+  https://developers.openai.com/api/docs/guides/agents-api/overview
+• Beyond Agent Harnesses: Cross-Substrate Authority for Multi-Agent Systems (arXiv Multi-Agent (cs.MA))
+  https://arxiv.org/pdf/2609.08472v1
+• OpenAI&#x27;s GPT-Live-1 Cuts Voice Agent Code by 80% at $0.05 a Minute (AlphaSignal)
+  https://alphasignal.ai/news/openai-s-gpt-live-1-cuts-voice-agent-code-by-80-at-0-05-a-minute
+
+#ПростоШтучнийІнтелект #ШІ #OpenAI #Agents #GPTLive1 #МультиагентніСистеми #ГолосовіАгенти
+
+Голоси ведучих синтезовані: власний клонований голос автора та ліцензована модель голосу. Сценарій створено за допомогою ШІ на основі джерел, перелічених нижче, під редакційним контролем автора.</description>
+      <itunes:summary>Нова модель GPT-Live-1 скорочує код голосових агентів на 80% при вартості всього 5 центів за хвилину роботи. Реліз OpenAI Agents API переносить хостинг інфраструктури Codex у хмару, дозволяючи створювати автономні системи для розслідування інцидентів через протокол MCP. Проте інтеграція таких рішень виявляє критичну проблему крос-субстратної авторизації, коли ідентичні файли вимагають протилежних безпекових дій через розрив між пам&#x27;яттю моделі та правами доступу.
+
+⏱ Розділи:
+0:00 WebArena та ефективність програмних оболонок
+2:05 GPT Live 1 та повнодуплексний голос
+4:23 Шаблон делегування та оптимізація коду
+6:09 Harness-інженерія та оцінка TerminalBench
+7:37 Шість компонентів ефективної оболонки ШІ
+10:40 Межі масштабування та проблеми планування
+12:41 Безпека ШІ та верифікація дій
+14:08 Agency API та багатоагентні системи
+
+🔗 Джерела епізоду:
+• From Question Answering to Task Completion: A Survey on Agent System and Harness Design (06.2026) (Своє джерело)
+  https://arxiv.org/pdf/2606.20683
+• Introducing the Agents API (YT: OpenAI)
+  https://www.youtube.com/watch?v=2YHa1vhnmK0
+• OpenAI Agents API (Hacker News)
+  https://developers.openai.com/api/docs/guides/agents-api/overview
+• Beyond Agent Harnesses: Cross-Substrate Authority for Multi-Agent Systems (arXiv Multi-Agent (cs.MA))
+  https://arxiv.org/pdf/2609.08472v1
+• OpenAI&#x27;s GPT-Live-1 Cuts Voice Agent Code by 80% at $0.05 a Minute (AlphaSignal)
+  https://alphasignal.ai/news/openai-s-gpt-live-1-cuts-voice-agent-code-by-80-at-0-05-a-minute
+
+#ПростоШтучнийІнтелект #ШІ #OpenAI #Agents #GPTLive1 #МультиагентніСистеми #ГолосовіАгенти
+
+Голоси ведучих синтезовані: власний клонований голос автора та ліцензована модель голосу. Сценарій створено за допомогою ШІ на основі джерел, перелічених нижче, під редакційним контролем автора.</itunes:summary>
+      <enclosure url="https://github.com/golovkovlad/simplyai-feed/releases/download/media/022.mp3" length="25008236" type="audio/mpeg"/>
+      <guid isPermaLink="false">022</guid>
+      <pubDate>Fri, 02 Oct 2026 11:00:25 GMT</pubDate>
+      <itunes:duration>00:17:21</itunes:duration>
+      <itunes:image href="https://github.com/golovkovlad/simplyai-feed/releases/download/media/022_cover.png"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>#21# Чому людська мова — це замало? Таємниця «Neuralese»</title>
       <description>Коли агенти ШІ дізнаються про модельне походження своїх колег, їхня здатність до співпраці критично падає через упередженість. Ми розбираємо феномен Neuralese, де LLM починають формувати внутрішні мови для розв&#x27;язання задач, та технологію TabPFN, яка замінює тривале налаштування моделей одним проходом через синтетичні дані. Ви дізнаєтеся, як приховані механізми мислення нейромереж змінюють архітектуру майбутніх систем.
 
