@@ -20,6 +20,61 @@
     <itunes:image href="https://golovkovlad.github.io/simplyai-feed/show_cover.jpg"/>
     <image><url>https://golovkovlad.github.io/simplyai-feed/show_cover.jpg</url><title>Просто Штучний Інтелект</title><link>https://golovkovlad.github.io/simplyai-feed</link></image>
     <item>
+      <title>#23# Загроза самовдосконалення ШІ та нові попередження про апокаліпсис</title>
+      <description>Сем Альтман прогнозує появу AGI вже до 2026 року, коли системи почнуть неконтрольовано навчати самі себе. Дослідження моделі NeoHorse-1 та закриті безпекові звіти OpenAI й METR викривають реальні загрози рекурсивного самовдосконалення (RSI) та створення некерованих ШІ-агентів. Ви дізнаєтеся, чому провідні лабораторії світу побоюються модельного колапсу та як концепція чужого розуму Якуба Пахоцького змінює уявлення про безпеку технологій.
+
+⏱ Розділи:
+0:00 Автономні агенти та таємні форуми ШІ
+1:10 Технологія Neohorse та навчання моделей
+2:38 Проблема обману та приховані дії ШІ
+4:01 Аномальні витрати та безпека розробок
+5:38 Катастрофічне забування та обмеження ШІ
+8:41 Майбутнє цифрових працівників та безпека
+
+🔗 Джерела епізоду:
+• NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness (HF Daily Papers)
+  https://arxiv.org/pdf/2609.08183
+• Sam Altman :‘AGI in 2026’, just as Models Start to [Mis]Train Themselves (YT: AI Explained)
+  https://www.youtube.com/watch?v=KL9_1GbmCic
+• AI researchers debate how close we are to recursive self-improvement (YT: Dwarkesh Patel)
+  https://www.youtube.com/watch?v=PrSf7IOYu-I
+• Research acceleration: The view inside OpenAI (Simon Willison)
+  https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/
+
+#ПростоШтучнийІнтелект #ШІ #OpenAI #NeoHorse #METR #РекурсивнеСамовдосконалення #МодельнийКолапс
+
+Голоси ведучих синтезовані: власний клонований голос автора та ліцензована модель голосу. Сценарій створено за допомогою ШІ на основі джерел, перелічених нижче, під редакційним контролем автора.</description>
+      <itunes:summary>Сем Альтман прогнозує появу AGI вже до 2026 року, коли системи почнуть неконтрольовано навчати самі себе. Дослідження моделі NeoHorse-1 та закриті безпекові звіти OpenAI й METR викривають реальні загрози рекурсивного самовдосконалення (RSI) та створення некерованих ШІ-агентів. Ви дізнаєтеся, чому провідні лабораторії світу побоюються модельного колапсу та як концепція чужого розуму Якуба Пахоцького змінює уявлення про безпеку технологій.
+
+⏱ Розділи:
+0:00 Автономні агенти та таємні форуми ШІ
+1:10 Технологія Neohorse та навчання моделей
+2:38 Проблема обману та приховані дії ШІ
+4:01 Аномальні витрати та безпека розробок
+5:38 Катастрофічне забування та обмеження ШІ
+8:41 Майбутнє цифрових працівників та безпека
+
+🔗 Джерела епізоду:
+• NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness (HF Daily Papers)
+  https://arxiv.org/pdf/2609.08183
+• Sam Altman :‘AGI in 2026’, just as Models Start to [Mis]Train Themselves (YT: AI Explained)
+  https://www.youtube.com/watch?v=KL9_1GbmCic
+• AI researchers debate how close we are to recursive self-improvement (YT: Dwarkesh Patel)
+  https://www.youtube.com/watch?v=PrSf7IOYu-I
+• Research acceleration: The view inside OpenAI (Simon Willison)
+  https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/
+
+#ПростоШтучнийІнтелект #ШІ #OpenAI #NeoHorse #METR #РекурсивнеСамовдосконалення #МодельнийКолапс
+
+Голоси ведучих синтезовані: власний клонований голос автора та ліцензована модель голосу. Сценарій створено за допомогою ШІ на основі джерел, перелічених нижче, під редакційним контролем автора.</itunes:summary>
+      <enclosure url="https://github.com/golovkovlad/simplyai-feed/releases/download/media/023.mp3" length="17349164" type="audio/mpeg"/>
+      <guid isPermaLink="false">023-1791660238</guid>
+      <pubDate>Sat, 10 Oct 2026 19:23:58 GMT</pubDate>
+      <itunes:duration>00:12:02</itunes:duration>
+      <itunes:image href="https://github.com/golovkovlad/simplyai-feed/releases/download/media/023_cover.png"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>#22# OpenAI Agents API знищує потребу в оркестрації для розробників</title>
       <description>Нова модель GPT-Live-1 скорочує код голосових агентів на 80% при вартості всього 5 центів за хвилину роботи. Реліз OpenAI Agents API переносить хостинг інфраструктури Codex у хмару, дозволяючи створювати автономні системи для розслідування інцидентів через протокол MCP. Проте інтеграція таких рішень виявляє критичну проблему крос-субстратної авторизації, коли ідентичні файли вимагають протилежних безпекових дій через розрив між пам&#x27;яттю моделі та правами доступу.
 
