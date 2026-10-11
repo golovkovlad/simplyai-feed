@@ -20,6 +20,59 @@
     <itunes:image href="https://golovkovlad.github.io/simplyai-feed/show_cover.jpg"/>
     <image><url>https://golovkovlad.github.io/simplyai-feed/show_cover.jpg</url><title>Просто Штучний Інтелект</title><link>https://golovkovlad.github.io/simplyai-feed</link></image>
     <item>
+      <title>#24# OpenAI Dots перетворює ChatGPT на постійного агента</title>
+      <description>OpenAI запустила Dots — автономних агентів, які працюють 24/7 у власному хмарному середовищі, поки ви спите. Система базується на моделі GPT-6 Astra та інтегрується з понад 4000 застосунків через екосистему плагінів. Слухачі дізнаються, як ці постійні помічники навчаються на основі зворотного зв’язку та виконують складні завдання у фоновому режимі, що знаменує перехід від чат-ботів до повноцінних цифрових виконавців.
+
+⏱ Розділи:
+0:00 OpenAI та нові агенти GPT-6
+2:06 Codex та інтеграція з кодом
+3:28 Автономна робота та контроль людини
+5:02 Обмеження та проблеми локального доступу
+7:07 Майбутнє розробки та хмарні технології
+
+🔗 Джерела епізоду:
+• Introducing dots, always-on agents built to handle everything. (YT: OpenAI)
+  https://www.youtube.com/watch?v=uXspbC2srEQ
+• OpenAI&#x27;s Dots Turns ChatGPT Into a Persistent Agent That Works While You Sleep (AlphaSignal)
+  https://alphasignal.ai/news/openai-s-dots-turns-chatgpt-into-a-persistent-agent-that-works-while-you-sleep
+• OpenAI launches Dots, its Muse competitor (The Verge AI)
+  https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor
+• Dots: Always-on agents (Hacker News (дозбір))
+  https://openai.com/index/introducing-dots/
+
+#ПростоШтучнийІнтелект #ШІ #OpenAI #Dots #ChatGPT #GPT6 #Astra
+
+Голоси ведучих синтезовані: власний клонований голос автора та ліцензована модель голосу. Сценарій створено за допомогою ШІ на основі джерел, перелічених нижче, під редакційним контролем автора.</description>
+      <itunes:summary>OpenAI запустила Dots — автономних агентів, які працюють 24/7 у власному хмарному середовищі, поки ви спите. Система базується на моделі GPT-6 Astra та інтегрується з понад 4000 застосунків через екосистему плагінів. Слухачі дізнаються, як ці постійні помічники навчаються на основі зворотного зв’язку та виконують складні завдання у фоновому режимі, що знаменує перехід від чат-ботів до повноцінних цифрових виконавців.
+
+⏱ Розділи:
+0:00 OpenAI та нові агенти GPT-6
+2:06 Codex та інтеграція з кодом
+3:28 Автономна робота та контроль людини
+5:02 Обмеження та проблеми локального доступу
+7:07 Майбутнє розробки та хмарні технології
+
+🔗 Джерела епізоду:
+• Introducing dots, always-on agents built to handle everything. (YT: OpenAI)
+  https://www.youtube.com/watch?v=uXspbC2srEQ
+• OpenAI&#x27;s Dots Turns ChatGPT Into a Persistent Agent That Works While You Sleep (AlphaSignal)
+  https://alphasignal.ai/news/openai-s-dots-turns-chatgpt-into-a-persistent-agent-that-works-while-you-sleep
+• OpenAI launches Dots, its Muse competitor (The Verge AI)
+  https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor
+• Dots: Always-on agents (Hacker News (дозбір))
+  https://openai.com/index/introducing-dots/
+
+#ПростоШтучнийІнтелект #ШІ #OpenAI #Dots #ChatGPT #GPT6 #Astra
+
+Голоси ведучих синтезовані: власний клонований голос автора та ліцензована модель голосу. Сценарій створено за допомогою ШІ на основі джерел, перелічених нижче, під редакційним контролем автора.</itunes:summary>
+      <enclosure url="https://github.com/golovkovlad/simplyai-feed/releases/download/media/024.mp3" length="13900652" type="audio/mpeg"/>
+      <guid isPermaLink="false">024</guid>
+      <pubDate>Sun, 11 Oct 2026 11:09:56 GMT</pubDate>
+      <itunes:duration>00:09:39</itunes:duration>
+      <itunes:image href="https://github.com/golovkovlad/simplyai-feed/releases/download/media/024_cover.png"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>#23# Загроза самовдосконалення ШІ та нові попередження про апокаліпсис</title>
       <description>Сем Альтман прогнозує появу AGI вже до 2026 року, коли системи почнуть неконтрольовано навчати самі себе. Дослідження моделі NeoHorse-1 та закриті безпекові звіти OpenAI й METR викривають реальні загрози рекурсивного самовдосконалення (RSI) та створення некерованих ШІ-агентів. Ви дізнаєтеся, чому провідні лабораторії світу побоюються модельного колапсу та як концепція чужого розуму Якуба Пахоцького змінює уявлення про безпеку технологій.
 
