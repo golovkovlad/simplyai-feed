@@ -20,6 +20,73 @@
     <itunes:image href="https://golovkovlad.github.io/simplyai-feed/show_cover.jpg"/>
     <image><url>https://golovkovlad.github.io/simplyai-feed/show_cover.jpg</url><title>Просто Штучний Інтелект</title><link>https://golovkovlad.github.io/simplyai-feed</link></image>
     <item>
+      <title>#25# Змагання за швидкість: Jev та нові архітектури без LLM</title>
+      <description>Модель Jev від TypeSafe оцінена у 7,5 мільярдів доларів через здатність виконувати завдання швидше та економніше за LLM. У випуску розбираємо архітектуру Jev, порівнюємо її з моделлю Decision-1 від Microsoft, що працює в 35 разів швидше за GPT-6, та обговорюємо успіхи квантування Saluki 27B. Ви дізнаєтеся, як нові підходи до обробки даних без генерації тексту змінюють ринок ШІ та які альтернативи великим мовним моделям стають доступними вже сьогодні.
+
+⏱ Розділи:
+0:00 Jeff та відмова від генерації тексту
+1:22 Архітектура моделей прийняття рішень
+2:47 Калібрована впевненість та метод RLCD
+5:13 Стиснення моделей та обмеження технології
+
+🔗 Джерела епізоду:
+• How Can A Model Be Better Without Generating Words? (YT: bycloud)
+  https://www.youtube.com/watch?v=OxD4MtEmP-k
+• Typesafe AI raises $870M at $7.5B (Hacker News)
+  https://typesafe.ai/blog/series-ai
+• Nous Research Offers Step 5 Preview Free for a Week on Its Portal (AlphaSignal)
+  https://alphasignal.ai/news/nous-research-offers-step-5-preview-free-for-a-week-on-its-portal
+• Yes, Jev Is Insane, But There&#x27;s A Catch (YT: Two Minute Papers)
+  https://www.youtube.com/watch?v=qBBRRsH0rQc
+• Microsoft&#x27;s Decision-1 Scores AI Choices 35x Faster Than GPT-6 (AlphaSignal)
+  https://alphasignal.ai/news/microsoft-s-decision-1-scores-ai-choices-35x-faster-than-gpt-6
+• [AINews] TypeSafe/Jev at &gt;$100M ARR, $7.5B valuation 3 weeks after launch (Latent Space)
+  https://www.latent.space/p/ainews-typesafejev-at-100m-arr-75b
+• The maker of non-text AI model Jev valued at $7.5B just weeks after launch (TechCrunch AI)
+  https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/
+• Conway Research Squeezes Saluki&#x27;s 27B Model Into 8 GB and Beats the Original (AlphaSignal)
+  https://alphasignal.ai/news/conway-research-squeezes-saluki-s-27b-model-into-8-gb-and-beats-the-original
+
+#ПростоШтучнийІнтелект #ШІ #Jev #Microsoft #GPT6 #TypeSafe #Decision1
+
+Голоси ведучих синтезовані: власний клонований голос автора та ліцензована модель голосу. Сценарій створено за допомогою ШІ на основі джерел, перелічених нижче, під редакційним контролем автора.</description>
+      <itunes:summary>Модель Jev від TypeSafe оцінена у 7,5 мільярдів доларів через здатність виконувати завдання швидше та економніше за LLM. У випуску розбираємо архітектуру Jev, порівнюємо її з моделлю Decision-1 від Microsoft, що працює в 35 разів швидше за GPT-6, та обговорюємо успіхи квантування Saluki 27B. Ви дізнаєтеся, як нові підходи до обробки даних без генерації тексту змінюють ринок ШІ та які альтернативи великим мовним моделям стають доступними вже сьогодні.
+
+⏱ Розділи:
+0:00 Jeff та відмова від генерації тексту
+1:22 Архітектура моделей прийняття рішень
+2:47 Калібрована впевненість та метод RLCD
+5:13 Стиснення моделей та обмеження технології
+
+🔗 Джерела епізоду:
+• How Can A Model Be Better Without Generating Words? (YT: bycloud)
+  https://www.youtube.com/watch?v=OxD4MtEmP-k
+• Typesafe AI raises $870M at $7.5B (Hacker News)
+  https://typesafe.ai/blog/series-ai
+• Nous Research Offers Step 5 Preview Free for a Week on Its Portal (AlphaSignal)
+  https://alphasignal.ai/news/nous-research-offers-step-5-preview-free-for-a-week-on-its-portal
+• Yes, Jev Is Insane, But There&#x27;s A Catch (YT: Two Minute Papers)
+  https://www.youtube.com/watch?v=qBBRRsH0rQc
+• Microsoft&#x27;s Decision-1 Scores AI Choices 35x Faster Than GPT-6 (AlphaSignal)
+  https://alphasignal.ai/news/microsoft-s-decision-1-scores-ai-choices-35x-faster-than-gpt-6
+• [AINews] TypeSafe/Jev at &gt;$100M ARR, $7.5B valuation 3 weeks after launch (Latent Space)
+  https://www.latent.space/p/ainews-typesafejev-at-100m-arr-75b
+• The maker of non-text AI model Jev valued at $7.5B just weeks after launch (TechCrunch AI)
+  https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/
+• Conway Research Squeezes Saluki&#x27;s 27B Model Into 8 GB and Beats the Original (AlphaSignal)
+  https://alphasignal.ai/news/conway-research-squeezes-saluki-s-27b-model-into-8-gb-and-beats-the-original
+
+#ПростоШтучнийІнтелект #ШІ #Jev #Microsoft #GPT6 #TypeSafe #Decision1
+
+Голоси ведучих синтезовані: власний клонований голос автора та ліцензована модель голосу. Сценарій створено за допомогою ШІ на основі джерел, перелічених нижче, під редакційним контролем автора.</itunes:summary>
+      <enclosure url="https://github.com/golovkovlad/simplyai-feed/releases/download/media/025.mp3" length="11301164" type="audio/mpeg"/>
+      <guid isPermaLink="false">025</guid>
+      <pubDate>Mon, 26 Oct 2026 11:50:50 GMT</pubDate>
+      <itunes:duration>00:07:50</itunes:duration>
+      <itunes:image href="https://github.com/golovkovlad/simplyai-feed/releases/download/media/025_cover.png"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>#24# OpenAI Dots перетворює ChatGPT на постійного агента</title>
       <description>OpenAI запустила Dots — автономних агентів, які працюють 24/7 у власному хмарному середовищі, поки ви спите. Система базується на моделі GPT-6 Astra та інтегрується з понад 4000 застосунків через екосистему плагінів. Слухачі дізнаються, як ці постійні помічники навчаються на основі зворотного зв’язку та виконують складні завдання у фоновому режимі, що знаменує перехід від чат-ботів до повноцінних цифрових виконавців.
 
